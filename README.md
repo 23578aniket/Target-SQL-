@@ -18,3 +18,6 @@ payments.csv
 reviews.csv
 orders.csv
 products.csv
+
+In the "Target" project, I applied my SQL expertise to analyze complex datasets, uncovering key business insights. I leveraged advanced SQL techniques, such as joins, subqueries, and window functions, to extract, clean, and transform data for in-depth analysis. My ability to break down complex problems allowed me to identify trends in customer behavior, sales performance, and inventory management. I also ensured efficient query optimization to handle large datasets, ultimately providing actionable insights that contributed to strategic decision-making.
+The project was then analyzed and reviewed for scoring by Scaler experts and I scored 7.4 out of 10.
